@@ -1,0 +1,14 @@
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\bin\Debug\AdvanceStock.exe.config
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\bin\Debug\AdvanceStock.exe
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\bin\Debug\AdvanceStock.pdb
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\bin\Debug\AdvanceStock.xml
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.vbprojResolveAssemblyReference.cache
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.Resources.resources
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.vbproj.GenerateResource.Cache
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.exe
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.xml
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.pdb
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.Background.resources
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.MainForm.resources
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.PositionForm.resources
+D:\School\Setec\Project\AdvanceStock\AdvanceStock\AdvanceStock\obj\Debug\AdvanceStock.StaffInfoForm.resources
